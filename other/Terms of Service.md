@@ -1,4 +1,4 @@
-#Terms of Service
+# Terms of Service
 
 Welcome to ChatGPT Formula (FREE)! Please read these Terms of Service (""Terms"") carefully before using our Google Workspace Marketplace addon.
 
